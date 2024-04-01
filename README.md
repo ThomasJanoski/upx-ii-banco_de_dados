@@ -1,2 +1,3 @@
-# upx-ii-sql
-Arquivo SQL para UPX II
+# AquaMonitor - UPX II
+
+Repositório para compartilhamento do arquivo **SQL** usado no projeto.
